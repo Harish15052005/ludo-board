@@ -5,6 +5,7 @@ The code below may help you make the board very easily.
 If you still have some problem than you can contact me by using telgram or discord.
 Here's the link to my telegram channel :- 
 Here's the link to my discord :- 
+I will try to make this working. Till you can look for an indian ludo code. Which is working.
 There are also lots of intreasting projects codes are there in diffrent repo's, So You can check then.
 I hope you liked this project.
 Follow for more intresting project.
